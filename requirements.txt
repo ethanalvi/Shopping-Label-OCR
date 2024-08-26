@@ -1,0 +1,5 @@
+fastapi[all]
+uvicorn
+opencv-python
+tensorflow
+imutils
